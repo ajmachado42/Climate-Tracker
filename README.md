@@ -1,2 +1,2 @@
-# Weather-Tracker
+# Climate-Tracker
 OpenWeather API to timeseries dashboard using local geographic parameters
